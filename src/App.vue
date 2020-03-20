@@ -2,7 +2,7 @@
   <div id="app">
     <div id="nav">
       <router-link class="title" to="/">
-        <p>Recipe List!</p>
+        <p>Recipes!</p>
       </router-link>
       <span class="spacer" />
       <router-link class="header-link" to="/" exact>
